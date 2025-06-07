@@ -67,3 +67,11 @@ This application is a web-based cryptocurrency wallet built using React, Node.js
 ### **Ethers.js Compatibility Issue:**
 * Version 6 caused errors with Web3Provider.
 * Downgraded to version 5 for stable performance.
+
+### ScreenShot
+![Screenshot 2025-06-02 160355](https://github.com/user-attachments/assets/1407f228-fb12-4e80-91b3-de82187316c7)
+![Screenshot 2025-06-02 160428](https://github.com/user-attachments/assets/ce9bf7cc-439e-459a-9330-8d3644bdf469)
+![Screenshot 2025-06-02 160454](https://github.com/user-attachments/assets/3a325339-a8f8-4d99-81d6-0cbf6d0ec063)
+![Screenshot 2025-06-02 160533](https://github.com/user-attachments/assets/5ea246b1-3ee1-43d8-a76a-8f80576e89e0)
+![Screenshot 2025-06-02 160719](https://github.com/user-attachments/assets/d69cc9ec-40e9-406b-bf13-8049611b0325)
+
