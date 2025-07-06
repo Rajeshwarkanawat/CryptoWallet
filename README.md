@@ -29,7 +29,7 @@ This application is a web-based cryptocurrency wallet built using React, Node.js
 ## 🛠 Tech Stack
 
 * **Frontend**: React, Tailwind CSS, Axios, Ethers.js
-* **Backend & Blockchain**: Node.js, Hardhat, Solidity, Waffle
+* **Backend & Blockchain**: Node.js, Hardhat, Solidity
 * **Network**: Sepolia Test Network (via Alchemy)
 * **Wallet**: Metamask
 * **Environment Management**: .env files (Private Key & Alchemy Endpoint)
@@ -61,12 +61,6 @@ This application is a web-based cryptocurrency wallet built using React, Node.js
 
 * **POST /sendTransaction** - Sends a transaction from one wallet to another.
 * **GET /getAllTransactions** - Fetches all stored transactions.
-
-## 📄 Handling Issues
-
-### **Ethers.js Compatibility Issue:**
-* Version 6 caused errors with Web3Provider.
-* Downgraded to version 5 for stable performance.
 
 ### ScreenShot
 ![Screenshot 2025-06-02 160355](https://github.com/user-attachments/assets/1407f228-fb12-4e80-91b3-de82187316c7)
